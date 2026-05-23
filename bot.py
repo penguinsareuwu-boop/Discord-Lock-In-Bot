@@ -3,9 +3,21 @@ import re
 import os
 
 BLOCKED_WORDS = [
-    "word1",  # replace these with your actual words
-    "word2",
-    "word3",
+    "nigger",
+    "nigga",
+    "faggot",
+    "fag",
+    "retard",
+    "spastic",
+    "tranny",
+    "chink",
+    "kike",
+    "spic",
+    "wetback",
+    "coon",
+    "gook",
+    "dyke",
+    "troon",
 ]
 
 intents = discord.Intents.default()
